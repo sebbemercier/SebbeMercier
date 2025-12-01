@@ -47,11 +47,8 @@
 </table>
 
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=SebbeMercier&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=999" height="160" alt="stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebbeMercier&layout=compact&theme=transparent&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=999" height="160" alt="languages" />
 
 </div>
-
-
 
 ```
