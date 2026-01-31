@@ -35,12 +35,12 @@
       <br/>
       <!-- Ligne 1 : Web & Data -->
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,nodejs,redis,js,elasticsearch&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=html,css,nodejs,redis,js,elasticsearch,ansible,supabase,cloudflare&theme=dark" />
       </a>
       <br/><br/>
       <!-- Ligne 2 : Backend, Mobile, Frameworks -->
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=postgres,mongo,swift,kotlin,react,golang,nextjs&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=postgres,mongo,swift,kotlin,react,golang,nextjs,bun,redhat,swift&theme=dark" />
       </a>
     </td>
   </tr>
