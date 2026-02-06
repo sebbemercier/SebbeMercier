@@ -15,8 +15,7 @@
          Je conçois des écosystèmes complets, du backend (Go/Node) aux applications natives mobiles.
       </p>
       <p>
-        🚀 <b>Focus :</b> Indexation de données massives<br/>
-        🎯 <b>Passion :</b> Architecture distribuée & optimisation
+        🚀 <b>Focus :</b> Indexation de données massives & Architecture distribuée & optimisation
       </p>
       <br/>
       <!-- BOUTONS RESEAUX SOCIAUX -->
